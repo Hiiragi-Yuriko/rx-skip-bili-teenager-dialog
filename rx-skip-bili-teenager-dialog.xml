@@ -1,4 +1,4 @@
-<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="activity">
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3" type="activity" sender="any">
   <intent-filter>
     <action name="com.bilibili.teenagersmode.ui.TeenagersModeDialogActivity" />
   </intent-filter>
